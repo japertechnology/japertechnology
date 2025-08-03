@@ -19,7 +19,6 @@
   <summary>Tools</summary>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=juxta-repo)](https://github.com/japertechnology/juxta-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=aws-lambda-nodejs-catch-all)](https://github.com/japertechnology/aws-lambda-nodejs-catch-all)
 
 </details>
   </td>
@@ -40,13 +39,15 @@
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer.zoom.us)](https://japer.zoom.us)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=openai.com/chatgpt)](https://chat.openai.com/g/g-GrNiWW5CX)
 
-##### Repositories by Name
+##### Repositories by Page
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=all)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=2)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=3)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=4)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=4&sort=name)
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=5)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=5&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p1)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p2)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p3)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p4)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=4&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p5)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=5&sort=name)
+
+##### Repositories by Class
 
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=juxta)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)
