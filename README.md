@@ -1,7 +1,7 @@
 # [Japer Technology Pty. Ltd.](https://www.japer.technology)
 
 <details>
-  <summary><b>Stats</b></summary>
+  <summary><b>GitHub Statistics</b></summary>
   
 ![stats](https://github-readme-stats.vercel.app/api?username=japertechnology&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=japertechnology&no-bg=true&no-frame=true&column=4&theme=algolia)
@@ -13,3 +13,17 @@
 
 </details>
 
+<details>
+  <summary><b>Primary Repositories</b></summary>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=developer-japer-io)](https://github.com/japertechnology/developer-japer-io)
+
+</details>
+
+<details>
+  <summary><b>Tool Repositories</b></summary>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=juxta-repo)](https://github.com/japertechnology/juxta-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=aws-lambda-nodejs-catch-all)](https://github.com/japertechnology/aws-lambda-nodejs-catch-all)
+
+</details>
