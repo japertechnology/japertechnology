@@ -45,8 +45,9 @@
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=juxta)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=spark)](https://github.com/japertechnology?tab=repositories&q=spark&type=&language=&sort=name)
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=public)](https://github.com/japertechnology?tab=repositories&type=public&type=&language=&sort=name)
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=private)](https://github.com/japertechnology?tab=repositories&type=private&type=&language=&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=private)](https://github.com/japertechnology?tab=repositories&type=private&language=&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=public)](https://github.com/japertechnology?tab=repositories&type=public&language=&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=public)](https://github.com/japertechnology?tab=repositories&type=template&language=&sort=name)
 
 </details>
   </td>
