@@ -9,7 +9,7 @@
   <details>
   <summary>Products</summary>
 
-  #### JAPER's primary product is it's API, this GitHub repository contains resources that compliment.
+  #### JAPER's primary product is it's API, this GitHub repository contains resources that compliment the API documentation at [developer.japer.io](https://developer.japer.io)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=developer-japer-io)](https://github.com/japertechnology/developer-japer-io)
 
