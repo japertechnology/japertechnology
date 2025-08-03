@@ -41,7 +41,9 @@
 
 ##### Repositories
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=juxta-*)]([[https://japer.zoom.us](https://chat.openai.com/g/g-GrNiWW5CX)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)) 
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=juxta)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=spark)](https://github.com/japertechnology?tab=repositories&q=spark&type=&language=&sort=name)
 
 
 </details>
