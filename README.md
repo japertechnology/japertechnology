@@ -39,6 +39,11 @@ Justified Access Protocols for Encrypted Resources
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.cloud)](https://www.japer.cloud) 
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.xyz)](https://www.japer.xyz) 
 
+##### Information
+
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=chatgpt.com)]([https://japer.zoom.us](https://chat.openai.com/g/g-GrNiWW5CX)) 
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer.zoom.us)](https://japer.zoom.us) 
+
 </details>
   </td>
 
