@@ -1,5 +1,3 @@
-# [Japer Technology Pty. Ltd.](https://www.japer.technology)
-
 <p>
 <table>
 
