@@ -30,20 +30,23 @@
 
 ##### Websites
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.technology)](https://www.japer.technology) 
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.cloud)](https://www.japer.cloud) 
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.xyz)](https://www.japer.xyz) 
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.technology)](https://www.japer.technology)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.cloud)](https://www.japer.cloud)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.xyz)](https://www.japer.xyz)
 
 ##### Information
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer.zoom.us)](https://japer.zoom.us) 
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=openai.com/chatgpt)](https://chat.openai.com/g/g-GrNiWW5CX) 
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer.zoom.us)](https://japer.zoom.us)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=openai.com/chatgpt)](https://chat.openai.com/g/g-GrNiWW5CX)
 
 ##### Repositories
 
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=juxta)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=spark)](https://github.com/japertechnology?tab=repositories&q=spark&type=&language=&sort=name)
+
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=public)](https://github.com/japertechnology?tab=repositories&type=public&type=&language=&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=private)](https://github.com/japertechnology?tab=repositories&type=private&type=&language=&sort=name)
 
 
 </details>
