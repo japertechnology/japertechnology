@@ -30,14 +30,17 @@
 ##### Websites
 
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.technology)](https://www.japer.technology)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japertechnology.github.io)](https://japertechnology.github.io)
+
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.cloud)](https://www.japer.cloud)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.xyz)](https://www.japer.xyz)
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japertechnology.github.io)](https://github.io)
+
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=developer.japer.io)](https://developer.japer.io)
 
 ##### Information
 
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=chatgpt.com)](https://chat.openai.com/g/g-GrNiWW5CX)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer.zoom.us)](https://japer.zoom.us)
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=openai.com/chatgpt)](https://chat.openai.com/g/g-GrNiWW5CX)
 
 ##### Repositories by Page
 
@@ -51,7 +54,9 @@
 
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=juxta)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)
+
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=spark)](https://github.com/japertechnology?tab=repositories&q=spark&type=&language=&sort=name)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=static)](https://github.com/japertechnology?tab=repositories&q=static&type=&language=&sort=name)
 
 ##### Repositories by Type
 
