@@ -14,7 +14,7 @@
 </details>
 
 <details>
-  <summary><b>Primary Repositories</b></summary>
+  <summary><b>Product Repositories</b></summary>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=developer-japer-io)](https://github.com/japertechnology/developer-japer-io)
 
