@@ -33,6 +33,7 @@
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.technology)](https://www.japer.technology)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.cloud)](https://www.japer.cloud)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.xyz)](https://www.japer.xyz)
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japertechnology.github.io)](https://github.io)
 
 ##### Information
 
@@ -41,6 +42,7 @@
 
 ##### Repositories by Name
 
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=all)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=juxta)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=spark)](https://github.com/japertechnology?tab=repositories&q=spark&type=&language=&sort=name)
