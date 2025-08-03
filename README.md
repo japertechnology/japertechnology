@@ -36,8 +36,8 @@
 
 ##### Information
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=chatgpt.com)]([https://japer.zoom.us](https://chat.openai.com/g/g-GrNiWW5CX)) 
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer.zoom.us)](https://japer.zoom.us) 
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=openai.com/chatgpt)](https://chat.openai.com/g/g-GrNiWW5CX) 
 
 ##### Repositories
 
