@@ -1,10 +1,5 @@
 ### [Japer Technology Pty. Ltd.](https://www.japer.technology) → Justified Access Protocols for Encrypted Resources
 
-[![Website](https://img.shields.io/badge/API-Online-informational?style=flat-square&color=ac43d9&logo=postman&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
-[![Website](https://img.shields.io/badge/iOS_App-Online-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
-[![Website](https://img.shields.io/badge/Android_App-Online-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
-[![Website](https://img.shields.io/badge/Website-Online-informational?style=flat-square&color=ac43d9&logo=wix&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
-
 <p>
 <table>
 
@@ -68,6 +63,13 @@
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=private)](https://github.com/japertechnology?tab=repositories&type=private&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=public)](https://github.com/japertechnology?tab=repositories&type=public&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=template)](https://github.com/japertechnology?tab=repositories&type=template&language=&sort=name)
+
+##### Status
+
+[![Website](https://img.shields.io/badge/API-Online-informational?style=flat-square&color=ac43d9&logo=postman&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
+[![Website](https://img.shields.io/badge/iOS_App-Online-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
+[![Website](https://img.shields.io/badge/Android_App-Online-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
+[![Website](https://img.shields.io/badge/Website-Online-informational?style=flat-square&color=ac43d9&logo=wix&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
 
 </details>
   </td>
