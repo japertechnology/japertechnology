@@ -8,6 +8,8 @@
   <td valign="top">
   <details>
   <summary>Products</summary>
+
+  #### JAPER's primary product is it's API, this GitHub repository contains resources that compliment.
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=developer-japer-io)](https://github.com/japertechnology/developer-japer-io)
 
@@ -17,6 +19,8 @@
   <td valign="top">
 <details>
   <summary>Tools</summary>
+
+  #### During the development of JAPER this tool proved very useful.  
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=juxta-repo)](https://github.com/japertechnology/juxta-repo)
 
