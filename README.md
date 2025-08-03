@@ -1,12 +1,20 @@
 # [Japer Technology Pty. Ltd.](https://www.japer.technology)
 
-<details>
+<p>
+<table>
+
+  <tr>
+  
+  <td valign="top">
+  <details>
   <summary><b>Product Repository</b></summary>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=developer-japer-io)](https://github.com/japertechnology/developer-japer-io)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=developer-japer-io)](https://github.com/japertechnology/developer-japer-io)
 
-</details>
+  </details>
+  </td>
 
+  <td valign="top">
 <details>
   <summary><b>Tool Repository</b></summary>
   
@@ -14,7 +22,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=aws-lambda-nodejs-catch-all)](https://github.com/japertechnology/aws-lambda-nodejs-catch-all)
 
 </details>
+  </td>
 
+  <td valign="top">
 <details>
   <summary><b>GitHub Statistics</b></summary>
   
@@ -27,3 +37,9 @@
 ![streak](https://streak-stats.demolab.com/?user=japertechnology&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
 
 </details>
+  </td>
+
+  </tr>
+  
+</table> 
+</p>
