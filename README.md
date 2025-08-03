@@ -25,6 +25,22 @@ Justified Access Protocols for Encrypted Resources
 
 </details>
   </td>
+  
+</tr>
+<tr>
+  
+  <td valign="top">
+<details>
+  <summary><b>Links</b></summary>
+
+##### Websites
+
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.technology)](https://www.japer.technology) 
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.cloud)](https://www.japer.cloud) 
+[![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=www.japer.xyz)](https://www.japer.xyz) 
+
+</details>
+  </td>
 
   <td valign="top">
 <details>
