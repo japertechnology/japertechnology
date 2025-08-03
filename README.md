@@ -1,6 +1,4 @@
-### [Japer Technology Pty. Ltd.](https://www.japer.technology)
-
-Justified Access Protocols for Encrypted Resources
+### [Japer Technology Pty. Ltd.](https://www.japer.technology) Justified Access Protocols for Encrypted Resources
 
 <p>
 <table>
