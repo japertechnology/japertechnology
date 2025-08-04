@@ -1,7 +1,7 @@
 ### [Japer Technology Pty. Ltd.](https://www.japer.technology) → Justified Access Protocols for Encrypted Resources
 
 <details>
-  <summary>Products</summary>
+  <summary>JAPER Products</summary>
 
   #### JAPER's primary product is it's API, this GitHub repository contains resources that compliment the API documentation at [developer.japer.io](https://developer.japer.io)
   
@@ -11,17 +11,7 @@
 
 
 <details>
-  <summary>Tools</summary>
-
-  #### During the development of JAPER this tool proved very useful.  
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=juxta-repo)](https://github.com/japertechnology/juxta-repo)
-
-</details>
-
-
-<details>
-  <summary>Links</summary>
+  <summary>JAPER Links</summary>
 
 ##### Websites
 
@@ -42,7 +32,7 @@
 
 
 <details>
-  <summary>Repos</summary>
+  <summary>Repository Links</summary>
 
 ##### by Page
 
@@ -76,7 +66,14 @@
 
 
 <details>
-  <summary>Stats</summary>
+  <summary>Tools</summary>
+
+  #### During the development of JAPER this tool proved very useful.  
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=juxta-repo)](https://github.com/japertechnology/juxta-repo)
+
+<details>
+  <summary>GitHub Stats</summary>
   
   ![stats](https://github-readme-stats.vercel.app/api?username=japertechnology&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
   ![trophy](https://github-profile-trophy.vercel.app/?username=japertechnology&no-bg=true&no-frame=true&column=4&theme=algolia)
@@ -87,5 +84,8 @@
   ![streak](https://streak-stats.demolab.com/?user=japertechnology&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
   
 </details>
+
+</details>
+
 
 
