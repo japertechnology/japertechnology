@@ -46,7 +46,14 @@
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=chatgpt.com)](https://chat.openai.com/g/g-GrNiWW5CX)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer.zoom.us)](https://japer.zoom.us)
 
-##### Repositories by Page
+</details>
+  </td>
+
+  <td valign="top">
+<details>
+  <summary>Repos</summary>
+
+##### by Page
 
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p1)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p2)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
@@ -54,7 +61,7 @@
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p4)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=4&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p5)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=5&sort=name)
 
-##### Repositories by Class
+##### by Class
 
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=juxta)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)
@@ -62,7 +69,7 @@
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=spark)](https://github.com/japertechnology?tab=repositories&q=spark&type=&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=static)](https://github.com/japertechnology?tab=repositories&q=static&type=&language=&sort=name)
 
-##### Repositories by Type
+##### Type
 
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=private)](https://github.com/japertechnology?tab=repositories&type=private&language=&sort=name)
 [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=public)](https://github.com/japertechnology?tab=repositories&type=public&language=&sort=name)
