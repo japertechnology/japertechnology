@@ -60,27 +60,27 @@
 
 
 <details>
-  <summary>Repository Links</summary>
+  <summary>Repository</summary>
 
-##### by Page
+##### by Name
 
-  [![Website](https://img.shields.io/badge/p1-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
-  [![Website](https://img.shields.io/badge/p2-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
-  [![Website](https://img.shields.io/badge/p3-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
-  [![Website](https://img.shields.io/badge/p4-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=4&sort=name)
-  [![Website](https://img.shields.io/badge/p5-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=5&sort=name)
+  [![Website](https://img.shields.io/badge/page_1-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
+  [![Website](https://img.shields.io/badge/page_2-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
+  [![Website](https://img.shields.io/badge/page_3-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
+  [![Website](https://img.shields.io/badge/page_4-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=4&sort=name)
+  [![Website](https://img.shields.io/badge/page_5-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=5&sort=name)
 
   ##### by Class
   
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=juxta)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=spark)](https://github.com/japertechnology?tab=repositories&q=spark&type=&language=&sort=name)
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=static)](https://github.com/japertechnology?tab=repositories&q=static&type=&language=&sort=name)
-  
+  [![Website](https://img.shields.io/badge/JAPER-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
+  [![Website](https://img.shields.io/badge/juxta-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)
+  [![Website](https://img.shields.io/badge/spark-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=spark&type=&language=&sort=name)
+  [![Website](https://img.shields.io/badge/static-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=static&type=&language=&sort=name)
+
   ##### Type
   
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=private)](https://github.com/japertechnology?tab=repositories&type=private&language=&sort=name)
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=public)](https://github.com/japertechnology?tab=repositories&type=public&language=&sort=name)
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&q=&text=template)](https://github.com/japertechnology?tab=repositories&type=template&language=&sort=name)
-  
+  [![Website](https://img.shields.io/badge/Private-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&type=private&language=&sort=name)
+  [![Website](https://img.shields.io/badge/Public-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&type=public&language=&sort=name)
+  [![Website](https://img.shields.io/badge/Template-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&type=template&language=&sort=name)
+
 </details>
