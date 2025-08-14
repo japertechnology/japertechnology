@@ -21,8 +21,9 @@
 [![Website](https://img.shields.io/badge/Template-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&type=template&language=&sort=name)
 
 
+
 <details>
-  <summary>Products</summary>
+  <summary>Repositories</summary>
 
   #### JAPER's primary product is it's API, this GitHub repository contains resources that compliment the API documentation at [developer.japer.io](https://developer.japer.io)
   
