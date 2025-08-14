@@ -64,6 +64,6 @@
 [![Website](https://img.shields.io/badge/Template-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&type=template&language=&sort=name)
 [![Website](https://img.shields.io/badge/1-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/2-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
-[![Website](https://img.shields.io/badge/3-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
+[![Website](https://img.shields.io/badge/3-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
 [![Website](https://img.shields.io/badge/4-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=4&sort=name)
 [![Website](https://img.shields.io/badge/5-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=5&sort=name)
