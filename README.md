@@ -64,12 +64,12 @@
 
 ##### by Page
 
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p1)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p2)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p3)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p4)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=4&sort=name)
-  [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=p5)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=5&sort=name)
-  
+  [![Website](https://img.shields.io/badge/p1-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
+  [![Website](https://img.shields.io/badge/p2-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
+  [![Website](https://img.shields.io/badge/p3-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
+  [![Website](https://img.shields.io/badge/p4-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=4&sort=name)
+  [![Website](https://img.shields.io/badge/p5-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=5&sort=name)
+
   ##### by Class
   
   [![Button](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
