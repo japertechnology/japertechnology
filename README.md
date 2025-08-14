@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/badge/JAPER-Technology-informational?style=flat-square&color=ac43d9)](https://www.japer.technology)
 [![Website](https://img.shields.io/badge/JAPER_iOS_App-Apple_Store-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
 [![Website](https://img.shields.io/badge/JAPER_Android_App-Google_Play_Store-informational?style=flat-square&color=ac43d9&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.japer)
+[![Website](https://img.shields.io/badge/JAPER-ChatGPT-informational?style=flat-square&color=ac43d9&logo=openai&logoColor=white)](https://chatgpt.com/g/g-GrNiWW5CX-japer-technology-pty-ltd)
+[![Website](https://img.shields.io/badge/JAPER-Zoom-informational?style=flat-square&color=ac43d9&logo=zoom&logoColor=white)](https://japer.zoom.us)
 
 <details>
   <summary>JAPER Products</summary>
@@ -26,8 +28,6 @@
 
 ##### Information
 
-  [![Website](https://img.shields.io/badge/JAPER-ChatGPT-informational?style=flat-square&color=ac43d9&logo=openai&logoColor=white)](https://chatgpt.com/g/g-GrNiWW5CX-japer-technology-pty-ltd)
-  [![Website](https://img.shields.io/badge/JAPER-Zoom-informational?style=flat-square&color=ac43d9&logo=zoom&logoColor=white)](https://japer.zoom.us)
   
 </details>
 
