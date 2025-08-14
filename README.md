@@ -10,7 +10,7 @@
 
 
 <details>
-  <summary>JAPER Products</summary>
+  <summary>Products</summary>
 
   #### JAPER's primary product is it's API, this GitHub repository contains resources that compliment the API documentation at [developer.japer.io](https://developer.japer.io)
   
@@ -42,13 +42,14 @@
 </details>
 
 
-[![Website](https://img.shields.io/badge/Repositories-Japer-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
+[![Website](https://img.shields.io/badge/JAPER-Repositories-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
+[![Website](https://img.shields.io/badge/1-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
+[![Website](https://img.shields.io/badge/2-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
+[![Website](https://img.shields.io/badge/3-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
+[![Website](https://img.shields.io/badge/Japer-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Juxta-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=juxta&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Private-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&type=private&language=&sort=name)
 [![Website](https://img.shields.io/badge/Public-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&type=public&language=&sort=name)
 [![Website](https://img.shields.io/badge/Spark-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=spark&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Static-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=static&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Template-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&type=template&language=&sort=name)
-[![Website](https://img.shields.io/badge/1-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
-[![Website](https://img.shields.io/badge/2-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
-[![Website](https://img.shields.io/badge/3-informational?style=flat-square&color=ac43d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
