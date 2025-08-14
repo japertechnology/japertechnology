@@ -30,8 +30,8 @@
   
   [![Website](https://img.shields.io/badge/JAPER_API-Developer_Documentation-informational?style=flat-square&color=ac43d9&logo=postman&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
   [![Website](https://img.shields.io/badge/JAPER_iOS_App-Apple_Store-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
-  [![Website](https://img.shields.io/badge/JAPER_Android_App-Google_Play_Store-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
-  [![Website](https://img.shields.io/badge/Website-Online-informational?style=flat-square&color=ac43d9&logo=wix&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
+  [![Website](https://img.shields.io/badge/JAPER_Android_App-Google_Play_Store-informational?style=flat-square&color=ac43d9&logo=android&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
+  [![Website](https://img.shields.io/badge/JAPER_Technology-Website-informational?style=flat-square&color=ac43d9&logo=wix&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
 
 </details>
 
