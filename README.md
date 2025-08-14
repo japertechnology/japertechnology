@@ -23,14 +23,14 @@
 
 ##### Information
 
-  [![Website](https://img.shields.io/badge/JAPER_ChatGPT-Ask_our_AI-informational?style=flat-square&color=ac43d9&logo=openai&logoColor=white)](https://chat.openai.com/g/g-GrNiWW)
+  [![Website](https://img.shields.io/badge/JAPER_ChatGPT-Ask_our_AI-informational?style=flat-square&color=ac43d9&logo=openai&logoColor=white)](https://chatgpt.com/g/g-GrNiWW5CX-japer-technology-pty-ltd)
   [![Website](https://img.shields.io/badge/JAPER_Zoom-Speak_with_Us-informational?style=flat-square&color=ac43d9&logo=zoom&logoColor=white)](https://japer.zoom.us)
   
 ##### Status
   
-  [![Website](https://img.shields.io/badge/API-Online-informational?style=flat-square&color=ac43d9&logo=postman&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
-  [![Website](https://img.shields.io/badge/iOS_App-Online-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
-  [![Website](https://img.shields.io/badge/Android_App-Online-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
+  [![Website](https://img.shields.io/badge/JAPER_API-Developer_Documentation-informational?style=flat-square&color=ac43d9&logo=postman&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
+  [![Website](https://img.shields.io/badge/JAPER_iOS_App-Apple_Store-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
+  [![Website](https://img.shields.io/badge/JAPER_Android_App-Google_Play_Store-informational?style=flat-square&color=ac43d9&logo=apple&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
   [![Website](https://img.shields.io/badge/Website-Online-informational?style=flat-square&color=ac43d9&logo=wix&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
 
 </details>
