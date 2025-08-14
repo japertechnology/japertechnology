@@ -5,6 +5,9 @@
 [![Website](https://img.shields.io/badge/JAPER_Android_App-Google_Play_Store-informational?style=flat-square&color=ac43d9&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.japer)
 [![Website](https://img.shields.io/badge/JAPER-ChatGPT-informational?style=flat-square&color=ac43d9&logo=openai&logoColor=white)](https://chatgpt.com/g/g-GrNiWW5CX-japer-technology-pty-ltd)
 [![Website](https://img.shields.io/badge/JAPER-Zoom-informational?style=flat-square&color=ac43d9&logo=zoom&logoColor=white)](https://japer.zoom.us)
+[![Website](https://img.shields.io/badge/JAPER-Developer-informational?style=flat-square&color=ac43d9&logo=postman&logoColor=white)](https://developer.japer.io)
+[![Website](https://img.shields.io/badge/JAPER-GitHub-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://japertechnology.github.io)
+
 
 <details>
   <summary>JAPER Products</summary>
@@ -13,22 +16,6 @@
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=developer-japer-io)](https://github.com/japertechnology/developer-japer-io)
 
-</details>
-
-
-<details>
-  <summary>JAPER Links</summary>
-
-##### Websites
-
-[![Website](https://img.shields.io/badge/JAPER-GitHub-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://japertechnology.github.io)
-[![Website](https://img.shields.io/badge/JAPER-Cloud-informational?style=flat-square&color=ac43d9&logo=wix&logoColor=white)](https://www.japer.cloud)
-[![Website](https://img.shields.io/badge/JAPER-XYZ-informational?style=flat-square&color=ac43d9&logo=wix&logoColor=white)](https://www.japer.xyz)
-[![Website](https://img.shields.io/badge/JAPER-Developer-informational?style=flat-square&color=ac43d9&logo=postman&logoColor=white)](https://developer.japer.io)
-
-##### Information
-
-  
 </details>
 
 
