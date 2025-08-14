@@ -23,9 +23,9 @@
 
 ##### Information
 
-  [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=chatgpt.com)](https://chat.openai.com/g/g-GrNiWW5CX)
-  [![Button Component](https://readme-components.vercel.app/api?component=button&fill=ac43d9&text=japer.zoom.us)](https://japer.zoom.us)
-
+  [![Website](https://img.shields.io/badge/JAPER_ChatGPT-Ask_our_AI-informational?style=flat-square&color=ac43d9&logo=openai&logoColor=white)](https://chat.openai.com/g/g-GrNiWW)
+  [![Website](https://img.shields.io/badge/JAPER_Zoom-Speak_with_Us-informational?style=flat-square&color=ac43d9&logo=zoom&logoColor=white)](https://japer.zoom.us)
+  
 ##### Status
   
   [![Website](https://img.shields.io/badge/API-Online-informational?style=flat-square&color=ac43d9&logo=postman&logoColor=white)](https://apps.apple.com/us/app/japer/id1481154593?ls=1)
