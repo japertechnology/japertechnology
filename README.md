@@ -15,6 +15,7 @@
 [![Website](https://img.shields.io/badge/Public-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&type=public&language=&sort=name)
 [![Website](https://img.shields.io/badge/Sandpit-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=sandpit&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Spark-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=spark&type=&language=&sort=name)
+[![Website](https://img.shields.io/badge/Starred-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=stargazers)
 [![Website](https://img.shields.io/badge/Static-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=static&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Template-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&type=template&language=&sort=name)
 [![Website](https://img.shields.io/badge/1-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
