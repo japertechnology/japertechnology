@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/badge/JAPER_ChatGPT-OpenAI-informational?style=flat-square&color=ac43d9&logo=openai&logoColor=white)](https://chatgpt.com/g/g-GrNiWW5CX-japer-technology-pty-ltd)
 
 [![Website](https://img.shields.io/badge/japer--technology-GitHub-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
-[![Website](https://img.shields.io/badge/Game-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=game-&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Japer-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Juxta-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=juxta-&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Omnibox-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=omnibox&type=&language=&sort=name)
@@ -23,7 +22,6 @@
 [![Website](https://img.shields.io/badge/3-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
 
 [![Website](https://img.shields.io/badge/japertechnology-GitHub-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
-[![Website](https://img.shields.io/badge/Game-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=game-&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Japer-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=japer&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Juxta-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=juxta-&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Omnibox-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=omnibox&type=&language=&sort=name)
@@ -39,7 +37,7 @@
 [![Website](https://img.shields.io/badge/3-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
 
 [![Website](https://img.shields.io/badge/ericmourant-GitHub-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
-[![Website](https://img.shields.io/badge/Game-informational?style=flat-square&color=08872B)](https://github.com/ericmourant?tab=repositories&q=game-&type=&language=&sort=name)
+[![Website](https://img.shields.io/badge/Game-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=game-&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Japer-informational?style=flat-square&color=08872B)](https://github.com/ericmourant?tab=repositories&q=japer&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Juxta-informational?style=flat-square&color=08872B)](https://github.com/ericmourant?tab=repositories&q=juxta-&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/Omnibox-informational?style=flat-square&color=08872B)](https://github.com/ericmourant?tab=repositories&q=omnibox&type=&language=&sort=name)
