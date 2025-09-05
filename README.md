@@ -22,7 +22,7 @@
 [![Website](https://img.shields.io/badge/2-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
 [![Website](https://img.shields.io/badge/3-informational?style=flat-square&color=08872B)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
 
-[![Website](https://img.shields.io/badge/ericmourant-GitHub-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/japertechnology)
+[![Website](https://img.shields.io/badge/ericmourant-GitHub-informational?style=flat-square&color=ac43d9&logo=github&logoColor=white)](https://github.com/ericmourant)
 
 <details>
   <summary>Repositories</summary>
