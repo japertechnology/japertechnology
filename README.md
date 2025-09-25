@@ -18,15 +18,11 @@
 [![Website](https://img.shields.io/badge/3-informational?style=flat-square&color=4370d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
 
 <details>
-  <summary>Repositories</summary>
+  <summary>Primary Repository</summary>
 
   #### JAPER's primary product is it's API, this GitHub repository contains resources that compliment the API documentation at [developer.japer.io](https://developer.japer.io)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=developer-japer-io)](https://github.com/japertechnology/developer-japer-io)
-
-  #### During the development of JAPER this tool proved very useful.  
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=japertechnology&repo=juxta-repo)](https://github.com/japertechnology/juxta-repo)
 
 <details>
   <summary>GitHub Stats</summary>
