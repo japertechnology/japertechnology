@@ -32,6 +32,8 @@
   ![streak](https://github-contributor-stats.vercel.app/api?username=japertechnology&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
   ![streak](https://streak-stats.demolab.com/?user=japertechnology&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
   ![trophy](https://github-profile-trophy.vercel.app/?username=japertechnology&no-bg=true&no-frame=true&column=4&theme=algolia)
+
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Japer%20Technology&fontAlign=50&section=header)
   
 </details>
 
