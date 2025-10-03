@@ -16,6 +16,7 @@
 [![Website](https://img.shields.io/badge/1-informational?style=flat-square&color=4370d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&sort=name)
 [![Website](https://img.shields.io/badge/2-informational?style=flat-square&color=4370d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=2&sort=name)
 [![Website](https://img.shields.io/badge/3-informational?style=flat-square&color=4370d9)](https://github.com/japertechnology?tab=repositories&q=&type=&language=&page=3&sort=name)
+[![Website](https://img.shields.io/badge/Game-informational?style=flat-square&color=4370d9)](https://github.com/japertechnology?tab=repositories&q=game&type=&language=&sort=name)
 
 <details>
   <summary>Primary Repository</summary>
