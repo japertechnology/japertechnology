@@ -34,7 +34,7 @@
   ![streak](https://streak-stats.demolab.com/?user=japertechnology&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
   ![trophy](https://github-profile-trophy.vercel.app/?username=japertechnology&no-bg=true&no-frame=true&column=4&theme=algolia)
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Japer%20Technology&fontAlign=50&section=header)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Japer%20Technology&fontAlign=50&section=header)
   
 </details>
 
